@@ -1,3 +1,18 @@
 {
-    "products": []
+  "products": [
+    {
+      "title": "shrek",
+      "description": "hehehehehe",
+      "price": 10000,
+      "image": "https://st2.depositphotos.com/2557325/5432/i/950/depositphotos_54326397-stock-photo-shrek-at-madame-tussauds.jpg",
+      "id": 1
+    },
+    {
+      "title": "ыыыы",
+      "description": "яяя)))",
+      "price": 2,
+      "image": "https://focus.ua/static/storage/thumbs/920x465/c/c0/24614ee7-8304073daeda130553b3307aa8a4fc0c.jpeg?v=3367_1",
+      "id": 2
+    }
+  ]
 }
