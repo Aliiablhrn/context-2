@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "title": "shrek",
+      "title": "shrekkk",
       "description": "hehehehehe",
       "price": 10000,
       "image": "https://st2.depositphotos.com/2557325/5432/i/950/depositphotos_54326397-stock-photo-shrek-at-madame-tussauds.jpg",
@@ -13,6 +13,13 @@
       "price": 2,
       "image": "https://focus.ua/static/storage/thumbs/920x465/c/c0/24614ee7-8304073daeda130553b3307aa8a4fc0c.jpeg?v=3367_1",
       "id": 2
+    },
+    {
+      "title": "ырку",
+      "description": "(",
+      "price": 1,
+      "image": "https://img02.rl0.ru/afisha/e1200x600i/daily.afisha.ru/uploads/images/6/05/6051fe63a2799ceba6cdd7031cfefc21.jpg",
+      "id": 3
     }
   ]
 }
